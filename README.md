@@ -1,3 +1,3 @@
-xpk
+Khpk (Khmelnitsky Polytechnic College)
 ===
 Volodymyr Gamula
